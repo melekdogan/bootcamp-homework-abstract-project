@@ -1,0 +1,16 @@
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\bin\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.exe
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\bin\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.deps.json
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\bin\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.runtimeconfig.json
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\bin\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.runtimeconfig.dev.json
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\bin\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.dll
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\bin\Debug\net5.0\ref\TODEB-HOMEWORK-SECONDWEEK.dll
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\bin\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.pdb
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\obj\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.csprojAssemblyReference.cache
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\obj\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\obj\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.AssemblyInfoInputs.cache
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\obj\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.AssemblyInfo.cs
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\obj\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.csproj.CoreCompileInputs.cache
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\obj\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.dll
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\obj\Debug\net5.0\ref\TODEB-HOMEWORK-SECONDWEEK.dll
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\obj\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.pdb
+C:\Users\melek\source\repos\TODEB-HOMEWORK-SECONDWEEK\obj\Debug\net5.0\TODEB-HOMEWORK-SECONDWEEK.genruntimeconfig.cache
